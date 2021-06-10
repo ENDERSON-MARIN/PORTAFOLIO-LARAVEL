@@ -2,11 +2,11 @@
 # Project Title
 PORTAFOLIO DE PROYECTOS
 # Screenshot
-![](assets/img/inicio.png)
-![](assets/img/portafolio.png)
-![](assets/img/proyectos.png)
-![](assets/img/quien-soy.png)
-![](assets/img/contacto.png)
+![](public/assets/img/inicio.png)
+![](public/assets/img/portafolio.png)
+![](public/assets/img/proyectos.png)
+![](public/assets/img/quien-soy.png)
+![](public/assets/img/contacto.png)
 
 
 ## Getting Started
