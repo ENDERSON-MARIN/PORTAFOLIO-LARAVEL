@@ -18,12 +18,13 @@ git clone https://github.com/ENDERSON-MARIN/PORTAFOLIO-LARAVEL.git
 cd project_dir
 
 # Config enviroments file:
-DB_CONNECTION=mysql
-DB_HOST=127.0.0.1
-DB_PORT=3306
-DB_DATABASE=Your_Database_Here
-DB_USERNAME=Your_Username_Here
-DB_PASSWORD=Your_password_Here
+1) DB_CONNECTION=mysql
+2) DB_HOST=127.0.0.1
+3) DB_PORT=3306
+4) DB_DATABASE=Your_Database_Here
+5) DB_USERNAME=Your_Username_Here
+6) DB_PASSWORD=Your_password_Here
+
 
 # Install COMPOSER dependencies
 composer install
