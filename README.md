@@ -53,7 +53,7 @@ you need to install following software
 1)	COMPOSER https://getcomposer.org/download/
 2)  WEB SERVER (PHP, APACHE)
 3)	DATABASE MYSQL
-OTHER OPTIONS:
+4)  OTHER OPTIONS:
     laragon https://laragon.org/download/index.html
 OR
     xammp https://www.apachefriends.org/download.html
